@@ -1,11 +1,7 @@
 
-from ast import Delete
-from gc import disable
-from operator import length_hint
-from sys import intern
 import tkinter as tk
 import random
-from typing import Literal
+
 
 # Generar Palabra Secreta
 def generar_palabra_secreta():
